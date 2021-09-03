@@ -18,7 +18,7 @@
    		<h3 class="panel-heading">github</h3>
    			<pre>
    			1. 회원가입
-   			2. 이클립스에서 연동 - 
+   			2. 이클립스에서 연동 -  eee
    				
    			
    			커밋(commit):git(로컬저장소)에 파일을 추가하거나 변경내용을 저장하는 작업
